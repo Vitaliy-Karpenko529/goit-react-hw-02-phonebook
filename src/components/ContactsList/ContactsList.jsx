@@ -15,7 +15,6 @@ const ContactsList = ({ contacts, onDeleteContact }) =>
           />
         </li>
       ))}
-      s
     </ul>
   );
 
